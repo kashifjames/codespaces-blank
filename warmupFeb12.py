@@ -1,0 +1,5 @@
+print(str(20))
+print("the computer will recongize it a string")
+print(20,901)
+print(f"the computer will recongize it a float because it has a decimal")
+print(f"type errors means theres some type of miss match")
