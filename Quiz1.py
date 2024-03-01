@@ -74,7 +74,7 @@ pascal case-everyword is uppercased
 snake case the undercode is like a sanke underground 
 
 # 13. Provide a coding scenario where you would you use a comparison operator in a program?
-Compare membership
+
 # 14. Provide a coding scenario Where you would you use a logical operator in a program?
 
 # 15. Create a block of code where you would 
