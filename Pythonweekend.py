@@ -114,7 +114,7 @@ def unknownFunction_B(data1, data2):
 
 # What are some ways you think technology can help 
 # people learn? Please explain why by providing examples,
-# written in 4 to 5 complete sentences.
+# written in 4 to 5 complete sentences.Technology
 
 # Technology has inflenced us and shaped learning in schools by providing access to vast amoujnt of information 
 #and resoures through the internet.for instance students could now easily access online textbook,educational video,and interactive
@@ -124,4 +124,4 @@ def unknownFunction_B(data1, data2):
 #,and vitual reality simulations can enhane teaching and learning experinces.
 
   48 changes: 46 additions & 2 deletions48  
-pythonFunctionNotes.
+pythonFunctionNotes.  
