@@ -13,7 +13,7 @@
 # Good Luck
 
 # 1. In your own words, describe what the difference
-# between a function arguement and a function parameter.
+# between a function arguement and a function parameter.   
 # Write your response using complete sentences
 #A parameter is the variable listed inside the parentheses in the function definition.
 #A argument is the value that are sent to the function when it is called.
@@ -29,7 +29,7 @@
 # a string data type?a = "Hello, World!"
 a = "Hello, World!"
 print(len(a))
-
+I would use str()
 
 
 # 4. What function would I use if I wanted to change a float data type into a 
@@ -76,6 +76,7 @@ Operator	Name	Example	Try it
 # the client would like you to pass in the speed that the user is going as an argument. 
 # Please provide three (3) clues/ keywords and explain why you chose them to get full credit.
 
+                                                                                                                                                                                                                                                                                                                                                                                 
 #I would create a function if the user is going over a certain speed
 #I would look at the gear system 
 # would look at the guidelines 
