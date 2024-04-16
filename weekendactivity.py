@@ -40,6 +40,8 @@ a maintainable program so it could make it easier
 # in order to get full credit. 
 
 # 4A. Use W3schools to learn about the range() function. Describe how what the range
-# function is and how it works.  
+# function is and how it works. The range() function returns a sequence of numbers, starting from 0 by default, and increments by 1 (by default), and stops before a specified number. 
 
 #4B. Then, create a loop using the range function that will only print multiples of 3 between 1 and 30. 
+for x in range(2, 30, 3):
+  print(x)
